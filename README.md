@@ -1,15 +1,17 @@
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 # Hi there 👋, I'm Tuan
-I'm Tuan from Vietnam, and I am studying Bachelor in Mathematics in Hanoi University of Science. I have a strong passionate on Applied Mathematics, AI, Machine Learning and Optimization. I also really enjoy playing soccer and listening to KPOP music.
+I am a freshman at Budapest University of Technology and Economics majoring in Mathematics. My current interest is Deep Learning, Machine Learning, Statistics, Mathematical Modeling and Optimization. 
 
 - 🔭 I’m currently working on something cool 
 - 🌱 I’m currently learning AI, ML and Optimization 
-- ⚡ Fun fact: I :heartpulse: :apple:  
+- ⚡ Fun fact: I :heartpulse: 🎵
 
 ## Skills and Experience: 
-* 🖥️ C++ / Python / R / SQL / Machine Learning/ Optimization
-* 📱 Math Modeling
+* 🖥️ Python, C++, R, SQL, SAGE, LATEX
+* 📱 Jupyter Notebook, Git, Visual Studio, RStudio, Overleaf
+* 📦 Pytorch, Numpy, Pandas, Matplotlib, Seabonr, Scikit-learn, MongoDB
+* 💻 Linear Regression, Logistic Regression, KNN, SVM, Random Forest, Neural Network, K-means Clustering, XGBoost, Transfer Learning
   
 
 
