@@ -1,7 +1,7 @@
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 # Hi there 👋, I'm Tuan
-I am a freshman at Budapest University of Technology and Economics majoring in Mathematics. My current interest is Deep Learning, Machine Learning, Statistics, Mathematical Modeling and Optimization. 
+I am a somophere at Budapest University of Technology and Economics majoring in Mathematics. My current interest is Deep Learning, Machine Learning, Statistics, Mathematical Modeling and Optimization. 
 
 - 🔭 I’m currently working on something cool 
 - 🌱 I’m currently learning AI, ML and Optimization 
