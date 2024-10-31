@@ -10,7 +10,7 @@ I am a somophere at Budapest University of Technology and Economics majoring in 
 ## Skills and Experience: 
 * 🖥️ Python, C++, R, SQL, SAGE, LATEX
 * 📱 Jupyter Notebook, Git, Visual Studio, RStudio, Overleaf
-* 📦 Pytorch, Numpy, Pandas, Matplotlib, Seabonr, Scikit-learn, MongoDB
+* 📦 Pytorch, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, MongoDB
 * 💻 Linear Regression, Logistic Regression, KNN, SVM, Random Forest, Neural Network, K-means Clustering, XGBoost, Transfer Learning
   
 
